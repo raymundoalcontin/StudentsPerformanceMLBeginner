@@ -1,0 +1,25 @@
+EXPECTED PREDICTION: FAILED # WRONG T.T.T.T.T.T.T
+
+Internet: Yes (1)
+Sex: Male (1)
+Study time: 2
+Absences: 5
+Previous failures: 0
+
+EXPECTED PREDICTION:  PASSED #WRONG AGAIN WTF
+
+Internet: No (0)
+Sex: Female (0)
+Study time: 3
+Absences: 1
+Previous failures: 0
+
+EXPECTED PREDICTION:  FAILED #RIGHT
+Internet: Yes (1)
+Sex: Female (0)
+Study time: 1
+Absences: 15
+Previous failures: 1
+
+
+1/3 NO
